@@ -4,7 +4,6 @@ This is a Python program that retrieves the password of a saved Wi-Fi network on
 ### Requirements
 To use this program, you will need to have Python 3.x installed on your computer. Additionally, the following modules are required:
 `tkinter`
-`tkinter`
 `os`
 `subprocess`
 `re`
