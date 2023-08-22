@@ -112,7 +112,7 @@ class WiFiApp:
         aboutWin.title('About')
         aboutWin.iconbitmap(self.aboutIcon)
         aboutWinLabel = Label(aboutWin, text=f'Version - 1.1\nDeveloped by Priyanshu\nFor any improvement please '
-                                             f'reach on below email\nEmail : priyanshu.kumar@alstomgroup.com\nMobile : '
+                                             f'reach on below email\nEmail : chandelpriyanshu8@outlook.com\nMobile : '
                                              f'+91-8285775109', font=('Helvetica', 9)).place(x=1, y=6)
 
     def enableSubmitBtn(self, *args):
